@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+ 
+# Jupyter
+.ipynb_checkpoints/
+ 
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+ 
+# IDE/editor
+.vscode/
+.idea/
+ 
